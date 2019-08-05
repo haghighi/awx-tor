@@ -2,4 +2,4 @@
  - name: Install and Configure TOR on CentOS/RHEL/Debian System
    hosts: all
    roles:
-    - {role: haghighi_ahmad.tor}
+    - haghighi_ahmad.tor
